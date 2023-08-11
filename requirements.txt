@@ -56,3 +56,4 @@ yarl
 youtube-dl
 youtube-transcript-api
 gunicorn
+poll
